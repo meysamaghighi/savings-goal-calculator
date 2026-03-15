@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://savings-goal-calculator.vercel.app"),
+  metadataBase: new URL("https://savings-goal-calculator-beryl.vercel.app"),
   title: "Savings Goal Calculator - How Long to Reach Your Goal?",
   description:
     "Free savings goal calculator. See how long it takes to reach any savings goal with compound interest. Emergency fund, house down payment, vacation, car, wedding, college, and retirement.",

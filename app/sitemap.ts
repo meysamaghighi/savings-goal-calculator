@@ -2,7 +2,7 @@ import type { MetadataRoute } from "next";
 import { savingsGoals } from "./lib/savings-engine";
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const base = "https://savings-goal-calculator.vercel.app";
+  const base = "https://savings-goal-calculator-beryl.vercel.app";
 
   return [
     {

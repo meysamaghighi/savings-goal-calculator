@@ -136,7 +136,7 @@ export default async function GoalPage({
             "@type": "WebApplication",
             name: goal.seoTitle,
             description: goal.seoDescription,
-            url: `https://savings-goal-calculator.vercel.app/${goal.slug}`,
+            url: `https://savings-goal-calculator-beryl.vercel.app/${goal.slug}`,
             applicationCategory: "FinanceApplication",
             operatingSystem: "Any",
             offers: { "@type": "Offer", price: "0", priceCurrency: "USD" },

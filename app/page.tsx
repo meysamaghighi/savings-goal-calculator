@@ -222,7 +222,7 @@ export default function Home() {
             name: "Savings Goal Calculator",
             description:
               "Free savings goal calculator with compound interest. Plan your emergency fund, house down payment, vacation, or any financial goal.",
-            url: "https://savings-goal-calculator.vercel.app",
+            url: "https://savings-goal-calculator-beryl.vercel.app",
             applicationCategory: "FinanceApplication",
             operatingSystem: "Any",
             offers: { "@type": "Offer", price: "0", priceCurrency: "USD" },
